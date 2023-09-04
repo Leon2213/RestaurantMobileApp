@@ -1,6 +1,6 @@
 # Mobile app created in dart/flutter. 
 
-The app runs on both Android and iOS. \n
+The app runs on both Android and iOS. <br>
 The app uses mySQL database and Java Spring as backend to create the API. 
 The app uses googles Maps API and nearby places API. 
 The restaurant data is initially retrieved from googles restaurants API and then stored locally in a database. 
