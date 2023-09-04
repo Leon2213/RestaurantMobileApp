@@ -20,6 +20,6 @@ The restaurants presented to the user are only restaurants that make for a good 
 
 ![img1](images/app6.PNG)
 
-![img1](images/app7.PNG)
+![img1](images/app10.PNG)
 
-![img1](images/app8.PNG)
+
